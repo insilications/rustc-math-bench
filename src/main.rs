@@ -1,4 +1,4 @@
-#![feature(const_fn)]
+// #![feature(const_fn)]
 //extern crate runtime_target_feature;
 //use runtime_target_feature::runtime_target_feature;
 
